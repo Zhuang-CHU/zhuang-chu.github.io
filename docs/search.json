@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Aggregators\nBrendan Price with resources for PhD students\n\n\nLearning Your Production Function\n\nLife Advice\n\n\nGeneral Pipline\n\n\nGrad Life\n\n\n\nWorking on Projects\n\nGenerating Ideas\n\n\nLiterature Review\n\n\nCoding\n\nStata & R with a side-by-side comparison\nSean Higgin’s R guide\nDan Sullivan’s best practices for coding\n\n\n\nData\n\n\nProject Management\n\n\n\nWriting & Presenting Your Work\n\nSlides\nPaul Goldsmith-Pinkham on presentations in beamer\n\n\nAttending\n\n\nPresenting\n\n\nManuscript\n\n\nFigures & Tables\n\n\n\n\n\n\nTeaching Notes\n\nPhD Notes\nJesús Fernández-Villaverde on computation, macroeconomics, and economic history\n\n\nUG Notes\nRaj Chetty on Using Big Data to Solve Economic and Social Problems\n\n\n\nRecommendations\n\nEcon & Finance Books\n\n\nGame\n\n\nPodcasts & Blogs\n\n\nEcon & Finance Books"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zhuang CHU (储庄)",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Finance at Hong Kong University of Science and Technology (HKUST). \nMy research interests lie in Sustainable Finance and Empirical Corporate Finance. In particular, I focus on studying the impact of financial and political frictions on the resource allocation efficiency during the low-carbon transition.\nI am on the job market for 2024-2025. You can find my CV here.\nEmail: zchu@connect.ust.hk"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -40,19 +54,5 @@
     "title": "Research",
     "section": "Work in progress",
     "text": "Work in progress\nPolitical Polarization and Households’ Climate Adoption, with Zhanhui Chen"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zhuang CHU (储庄)",
-    "section": "",
-    "text": "I am a Ph.D. candidate in Finance at Hong Kong University of Science and Technology (HKUST). \nMy research interests lie in Sustainable Finance and Empirical Corporate Finance. In particular, I focus on studying the impact of financial and political frictions on the resource allocation efficiency during the low-carbon transition.\nI am on the job market for 2024-2025. You can find my CV here.\nEmail: zchu@connect.ust.hk"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Aggregators\nBrendan Price with resources for PhD students\n\n\nLearning Your Production Function\n\nLife Advice\n\n\nGeneral Pipline\n\n\nGrad Life\n\n\n\nWorking on Projects\n\nGenerating Ideas\n\n\nLiterature Review\n\n\nCoding\n\nStata & R with a side-by-side comparison\nSean Higgin’s R guide\nDan Sullivan’s best practices for coding\n\n\n\nData\n\n\nProject Management\n\n\n\nWriting & Presenting Your Work\n\nSlides\nPaul Goldsmith-Pinkham on presentations in beamer\n\n\nAttending\n\n\nPresenting\n\n\nManuscript\n\n\nFigures & Tables\n\n\n\n\n\n\nTeaching Notes\n\nPhD Notes\nJesús Fernández-Villaverde on computation, macroeconomics, and economic history\n\n\nUG Notes\nRaj Chetty on Using Big Data to Solve Economic and Social Problems\n\n\n\nRecommendations\n\nEcon & Finance Books\n\n\nGame\n\n\nPodcasts & Blogs\n\n\nEcon & Finance Books"
   }
 ]
