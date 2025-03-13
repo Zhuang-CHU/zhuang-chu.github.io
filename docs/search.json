@@ -54,5 +54,124 @@
     "title": "Research",
     "section": "Work in progress",
     "text": "Work in progress\nPolitical Polarization and Households’ Climate Adoption, with Zhanhui Chen"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html",
+    "href": "teaching/FINA6900A.html",
+    "title": "FINA6900A: Machine Learning for Economic Analysis",
+    "section": "",
+    "text": "Instructor: Zhuang Chu\nTime and Place: Wednesday 19:30-22:20pm, LSK4063\nTeaching Assistant: TBD\n\n\nThis course offers a comprehensive exploration of the fundamental concepts and underlying principles of artificial intelligence (AI). It delves into the core principles of machine learning and provides valuable insights through case studies of relevant technologies. By providing opportunities for hands-on experimentation with machine learning applications, the course aims to inspire students to devise innovative approaches to address real-life problems in fintech using readily-available AI technologies.\nPrerequisite: Some preliminary course on (statistical) machine learning, applied statistics, and deep learning will be helpful."
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#course-information",
+    "href": "teaching/FINA6900A.html#course-information",
+    "title": "FINA6900A: Machine Learning for Economic Analysis",
+    "section": "",
+    "text": "Instructor: Zhuang Chu\nTime and Place: Wednesday 19:30-22:20pm, LSK4063\nTeaching Assistant: TBD\n\n\nThis course offers a comprehensive exploration of the fundamental concepts and underlying principles of artificial intelligence (AI). It delves into the core principles of machine learning and provides valuable insights through case studies of relevant technologies. By providing opportunities for hands-on experimentation with machine learning applications, the course aims to inspire students to devise innovative approaches to address real-life problems in fintech using readily-available AI technologies.\nPrerequisite: Some preliminary course on (statistical) machine learning, applied statistics, and deep learning will be helpful."
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#course-description",
+    "href": "teaching/FINA6900A.html#course-description",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Course Description",
+    "text": "Course Description\nThis course provides a comprehensive introduction to artificial intelligence (AI) applications in financial technology. Students will learn about machine learning algorithms, deep learning, and their practical applications in financial services, including algorithmic trading, risk management, fraud detection, and personalized banking."
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#learning-objectives",
+    "href": "teaching/FINA6900A.html#learning-objectives",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this course, students will be able to:\n\nUnderstand fundamental concepts of AI and machine learning in finance\nApply AI techniques to solve real-world financial problems\nEvaluate and implement AI-driven fintech solutions\nAnalyze the impact of AI on financial services industry\nDevelop practical skills in Python programming for fintech applications"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#prerequisites",
+    "href": "teaching/FINA6900A.html#prerequisites",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nBasic knowledge of finance and investments\nFundamental programming skills (Python)\nBasic understanding of statistics and probability"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#course-structure",
+    "href": "teaching/FINA6900A.html#course-structure",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Course Structure",
+    "text": "Course Structure\nThe course combines lectures, hands-on programming sessions, case studies, and group projects."
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#assessment",
+    "href": "teaching/FINA6900A.html#assessment",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Assessment",
+    "text": "Assessment\n\nClass Participation: 10%\nProgramming Assignments: 30%\nGroup Project: 30%\nFinal Exam: 30%"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#weekly-schedule",
+    "href": "teaching/FINA6900A.html#weekly-schedule",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Weekly Schedule",
+    "text": "Weekly Schedule\n\nWeek 1: Introduction to AI in Finance\n\nOverview of AI and Machine Learning\nCurrent trends in Fintech\nPython programming basics for finance\n\n\n\nWeek 2-3: Machine Learning Fundamentals\n\nSupervised and unsupervised learning\nModel evaluation and validation\nFinancial data processing\n\n\n\nWeek 4-5: Deep Learning in Finance\n\nNeural networks architecture\nDeep learning frameworks\nApplications in financial forecasting\n\n\n\nWeek 6-7: Natural Language Processing\n\nText analysis for financial documents\nSentiment analysis of market news\nSocial media analytics\n\n\n\nWeek 8-9: AI in Trading\n\nAlgorithmic trading strategies\nPortfolio optimization\nMarket making and execution\n\n\n\nWeek 10-11: Risk Management and Fraud Detection\n\nCredit risk assessment\nFraud detection systems\nAnti-money laundering\n\n\n\nWeek 12-13: Future of AI in Finance\n\nEthics and regulations\nEmerging technologies\nIndustry applications and case studies"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#required-materials",
+    "href": "teaching/FINA6900A.html#required-materials",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Required Materials",
+    "text": "Required Materials\n\nCourse materials will be provided through Canvas\nPython and relevant libraries (TensorFlow, PyTorch, scikit-learn)\nAdditional readings from academic papers and industry reports"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#academic-integrity",
+    "href": "teaching/FINA6900A.html#academic-integrity",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nStudents are expected to maintain the highest standards of academic integrity. Any form of plagiarism or cheating will result in severe penalties according to university policies."
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#references",
+    "href": "teaching/FINA6900A.html#references",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "References",
+    "text": "References\n\nAdvances in Financial Machine Learning by Marcos López de Prado\nArtificial Intelligence in Finance by Yves Hilpisch\nSelected academic papers and industry reports (to be provided)\n\nNote: This syllabus is subject to change based on class needs and circumstances."
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#synopsis",
+    "href": "teaching/FINA6900A.html#synopsis",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "",
+    "text": "This course offers a comprehensive exploration of the fundamental concepts and underlying principles of artificial intelligence (AI). It delves into the core principles of machine learning and provides valuable insights through case studies of relevant technologies. By providing opportunities for hands-on experimentation with machine learning applications, the course aims to inspire students to devise innovative approaches to address real-life problems in fintech using readily-available AI technologies."
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#course-materials",
+    "href": "teaching/FINA6900A.html#course-materials",
+    "title": "FINA6900A Artificial Intelligence in Fintech",
+    "section": "Course Materials",
+    "text": "Course Materials\n\nRequired Reading\n\nAn Introduction to Statistical Learning, with applications in R / Python\n\nAuthors: James, Witten, Hastie, and Tibshirani\n\nManning: Deep Learning with Python\n\nAuthor: Francois Chollet\n[GitHub source in Python 3.6 and Keras 2.0.8]\n\nMIT: Deep Learning\n\nAuthors: Ian Goodfellow, Yoshua Bengio, and Aaron Courville\n\n\n\n\nSupplementary Materials\n\nISLR-python by Jordi Warmenhoven\nISLR-Python: Labs and Applied by Matt Caudill\nThe Elements of Statistical Learning (ESL), 2nd Ed.\n\nAuthors: Hastie, Tibshirani, and Friedman\n\nstatlearning-notebooks by Sujit Pal\n\nPython implementations of Stanford’s StatLearning R labs\n\n\n\n\nTutorials for Preparation\n\nPython and Machine Learning:\n\nPython-Numpy Tutorials by Justin Johnson\nscikit-learn Tutorials: An Introduction of Machine Learning in Python\nJupyter Notebook Tutorials\n\nDeep Learning Frameworks:\n\nPyTorch Tutorials\nDeep Learning: Do-it-yourself with PyTorch (ENS course)\nTensorflow Tutorials\nMXNet Tutorials\nTheano Tutorials"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#schedule",
+    "href": "teaching/FINA6900A.html#schedule",
+    "title": "FINA6900A: Machine Learning for Economic Analysis",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nDate\nTopic\nInstructor\n\n\n\n\nSep 6\nLecture 01: Overview and History of Artificial Intelligence in Fintech\nZhuang Chu\n\n\nSep 13\nLecture 02: Supervised Learning: Linear Regression and Classification\n\n[ Reference ]\nTo view .ipynb files below, you may try [ Jupyter NBViewer]\nLinear Regression Python Notebook [ FINA6900A_Regression.ipynb ]\nLinear Classification Python Notebook [ FINA6900A_Classification.ipynb ]\n\nZhuang Chu\n\n\nSep 20\nLecture 03: Model Assessment and Selection: Subset, Ridge, Lasso, and PCR\nZhuang Chu\n\n\nSep 27\nLecture 04: Decision Tree, Bagging, Random Forests and Boosting\nZhuang Chu\n\n\nOct 4\nNo Class (National Holiday)\n-\n\n\nOct 11\nLecture 05: Support Vector Machines\nZhuang Chu\n\n\nOct 18\nLecture 06: An Introduction to Convolutional Neural Networks\nZhuang Chu\n\n\nOct 25\nLecture 07: Other nonlinear models moving beyond linearity\nZhuang Chu\n\n\nNov 1\nLecture 08: An Introduction to Recurrent Neural Networks (RNN) and Long Short Term Memory (LSTM)\nZhuang Chu\n\n\nNov 8\nLecture 09: Attention and Transformers\nZhuang Chu\n\n\nNov 15\nLecture 10: Transformer and Applications\nZhuang Chu\n\n\nNov 22\nLecture 11: An Introduction to Reinforcement Learning with Applications in Quantitative Finance\nZhuang Chu\n\n\nNov 29\nLecture 12: Project Presentation\nZhuang Chu"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#reference-materials",
+    "href": "teaching/FINA6900A.html#reference-materials",
+    "title": "FINA6900A: Machine Learning for Economic Analysis",
+    "section": "Reference Materials",
+    "text": "Reference Materials\n\nTextbooks\nAn Introduction to Statistical Learning, with applications in R / Python. By James, Witten, Hastie, and Tibshirani\n\nISLR-python, By Jordi Warmenhoven.\nISLR-Python: Labs and Applied, by Matt Caudill.\n\nManning: Deep Learning with Python, by Francois Chollet\n\n[GitHub source in Python 3.6 and Keras 2.0.8]\n\nMIT: Deep Learning, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville\n\n\nTutorials: preparation for beginners\n\nPython and Machine Learning:\n\nPython Programming for Economics and Finance, by Thomas J. Sargent and John Stachurski\nPython-Numpy Tutorials by Justin Johnson\nscikit-learn Tutorials: An Introduction of Machine Learning in Python\n\nDeep Learning Frameworks:\n\nPyTorch Tutorials\nTensorflow Tutorials"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#course-project",
+    "href": "teaching/FINA6900A.html#course-project",
+    "title": "FINA6900A: Machine Learning for Economic Analysis",
+    "section": "Course Project",
+    "text": "Course Project\n\nProject 1: Warm-up Project\nKaggle: Home Credit Default Risk competition\n\n\nProject 2: Paper Replication Study\nAsset Pricing paper replication or Reimaging paper replication\n\nShihao Gu, Bryan Kelly and Dacheng Xiu - “Empirical Asset Pricing via Machine Learning”\nJingwen Jiang, Bryan Kelly and Dacheng Xiu - “(Re-)Imag(in)ing Price Trends”\n\n\n\nProject 3: Final Project\nOptions include Kaggle contests, Cryptocurrency Trading Project, or Large Language Models with Financial Analysis"
+  },
+  {
+    "objectID": "teaching/FINA6900A.html#acknowlegements",
+    "href": "teaching/FINA6900A.html#acknowlegements",
+    "title": "FINA6900A: Machine Learning for Economic Analysis",
+    "section": "Acknowlegements",
+    "text": "Acknowlegements\nThis course was inspired by and/or uses reserouces from the following courses:\nMIT 6.S191: by Alexander Amini and Ava Amini, MIT\nCS229: Machine Learning by John Cho, Stanford University\nEconDL by Melissa Dell, Harvard University\nFoundations of Machine Learning by Maximilian Kasy, Oxford University"
   }
 ]
