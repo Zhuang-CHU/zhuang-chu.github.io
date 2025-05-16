@@ -1,0 +1,124 @@
+---
+title: "FINA6900A: Machine Learning for Economic Analysis"
+subtitle: "Fall 2025 - HKUST"
+# date: last-modified
+page-layout: full
+format:
+  html:
+    theme: cosmo
+    css: coursestyles.css
+#    toc: true
+#    toc-title: Contents
+#    toc-location: left
+    code-fold: true
+---
+
+## Course Information
+
+**Instructor:** Zhuang Chu
+
+**Time and Place:** Wednesday 19:30-22:20pm, LSK4063
+
+**Teaching Assistant:** TBD
+
+### Synopsis
+
+This course offers a comprehensive exploration of the fundamental concepts and underlying principles of artificial intelligence (AI). It delves into the core principles of machine learning and provides valuable insights through case studies of relevant technologies. By providing opportunities for hands-on experimentation with machine learning applications, the course aims to inspire students to devise innovative approaches to address real-life problems in fintech using readily-available AI technologies.
+
+**Prerequisite:** Some preliminary course on (statistical) machine learning, applied statistics, and deep learning will be helpful.
+
+## Reference Materials
+
+### Textbooks
+
+[*An Introduction to Statistical Learning, with applications in R / Python.*](https://www.statlearning.com/) *By James, Witten, Hastie, and Tibshirani*
+
+-   [*ISLR-python, By Jordi Warmenhoven*](https://github.com/JWarmenhoven/ISLR-python/)*.*
+
+-   [*ISLR-Python: Labs and Applied, by Matt Caudill*](https://github.com/mscaudill/IntroStatLearn)*.*
+
+[*Manning: Deep Learning with Python*](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff)*, by Francois Chollet*
+
+-   \[[GitHub source in Python 3.6 and Keras 2.0.8](https://github.com/fchollet/deep-learning-with-python-notebooks)\]
+
+[*MIT: Deep Learning*](http://www.deeplearningbook.org/)*, by Ian Goodfellow, Yoshua Bengio, and Aaron Courville*
+
+### Tutorials: preparation for beginners
+
+1.  Python and Machine Learning:
+    -   [*Python Programming for Economics and Finance*](https://python-programming.quantecon.org/getting_started.html)*, by* Thomas J. Sargent and John Stachurski
+    -   [*Python-Numpy Tutorials*](http://cs231n.github.io/python-numpy-tutorial/) *by Justin Johnson*
+    -   [*scikit-learn Tutorials*](http://scikit-learn.org/stable/)*: An Introduction of Machine Learning in Python*
+2.  Deep Learning Frameworks:
+    -   [*PyTorch Tutorials*](https://pytorch.org/tutorials/)
+    -   [*Tensorflow Tutorials*](https://www.tensorflow.org/tutorials)
+
+## Schedule
+
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Date   | Topic                                                                                                                                                                                           | Instructor |
++========+=================================================================================================================================================================================================+============+
+| Sep 6  | Lecture 01: Overview and History of Artificial Intelligence in Fintech                                                                                                                          | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Sep 13 | Lecture 02: Supervised Learning: Linear Regression and Classification                                                                                                                           | Zhuang Chu |
+|        |                                                                                                                                                                                                 |            |
+|        | -   \[ Reference \]                                                                                                                                                                             |            |
+|        |                                                                                                                                                                                                 |            |
+|        | -   To view .ipynb files below, you may try [\[ Jupyter NBViewer\]](https://nbviewer.jupyter.org/)                                                                                              |            |
+|        |                                                                                                                                                                                                 |            |
+|        | -   Linear Regression Python Notebook [\[ FINA6900A_Regression.ipynb \]](https://github.com/Zhuang-CHU/zhuang-chu.github.io/blob/main/teaching/codesets/FINA6900A_Regression.ipynb)             |            |
+|        |                                                                                                                                                                                                 |            |
+|        | -   Linear Classification Python Notebook [\[ FINA6900A_Classification.ipynb \]](https://github.com/Zhuang-CHU/zhuang-chu.github.io/blob/main/teaching/codesets/FINA6900A_Classification.ipynb) |            |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Sep 20 | Lecture 03: Model Assessment and Selection: Subset, Ridge, Lasso, and PCR                                                                                                                       | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Sep 27 | Lecture 04: Decision Tree, Bagging, Random Forests and Boosting                                                                                                                                 | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Oct 4  | No Class (National Holiday)                                                                                                                                                                     | \-         |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Oct 11 | Lecture 05: Support Vector Machines                                                                                                                                                             | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Oct 18 | Lecture 06: An Introduction to Convolutional Neural Networks                                                                                                                                    | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Oct 25 | Lecture 07: Other nonlinear models moving beyond linearity                                                                                                                                      | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Nov 1  | Lecture 08: An Introduction to Recurrent Neural Networks (RNN) and Long Short Term Memory (LSTM)                                                                                                | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Nov 8  | Lecture 09: Attention and Transformers                                                                                                                                                          | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Nov 15 | Lecture 10: Transformer and Applications                                                                                                                                                        | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Nov 22 | Lecture 11: An Introduction to Reinforcement Learning with Applications in Quantitative Finance                                                                                                 | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+| Nov 29 | Lecture 12: Project Presentation                                                                                                                                                                | Zhuang Chu |
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
+
+## Course Project
+
+### Project 1: Warm-up Project
+
+Kaggle: Home Credit Default Risk competition
+
+### Project 2: Paper Replication Study
+
+Asset Pricing paper replication or Reimaging paper replication
+
+-   Shihao Gu, Bryan Kelly and Dacheng Xiu - "Empirical Asset Pricing via Machine Learning"
+
+-   Jingwen Jiang, Bryan Kelly and Dacheng Xiu - "(Re-)Imag(in)ing Price Trends"
+
+### Project 3: Final Project
+
+Options include Kaggle contests, Cryptocurrency Trading Project, or Large Language Models with Financial Analysis
+
+## Acknowlegements
+
+This course was inspired by and/or uses reserouces from the following courses:
+
+[MIT 6.S191](https://introtodeeplearning.com/): by Alexander Amini and Ava Amini, MIT
+
+[CS229: Machine Learning](https://cs229.stanford.edu/) by John Cho, Stanford University
+
+[EconDL](https://econdl.github.io/) by Melissa Dell, Harvard University
+
+[Foundations of Machine Learning](https://maxkasy.github.io/home/ML_Oxford_2024/) by Maximilian Kasy, Oxford University
